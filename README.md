@@ -7,6 +7,8 @@
 ``` bash
 # install dependencies
 npm install
+
+# Some issue for upload file so
 create a file "static"
 
 # serve with hot reload at localhost:8080

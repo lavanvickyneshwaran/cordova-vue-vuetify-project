@@ -1,4 +1,4 @@
-# faceapp
+# sample app
 
 > A Vue.js project
 

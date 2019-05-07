@@ -9,7 +9,7 @@
 npm install
 
 # Some issue for upload file so
-create a file "static"
+create a folder custom folder name:- "static"
 
 # serve with hot reload at localhost:8080
 npm run dev
